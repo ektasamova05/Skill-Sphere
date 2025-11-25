@@ -48,11 +48,14 @@
 
 ## 🧪 Demo
 
-### Project Screenshot
+### ▶️ **Live App**
+👉 **Live Demo:** [Click here to run the project](https://skill-sphere.streamlit.app/)
+
+---
+
+### 📸 Project Screenshot
 ![Project Screenshot](skill-sphere.png)
 
 _Above is a screenshot of the project in action._
 
-
-
-
+---
