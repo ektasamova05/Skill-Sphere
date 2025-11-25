@@ -67,8 +67,11 @@ All credentials are managed securely using `.streamlit/secrets.toml` (excluded v
 
 ## 🧪 Demo
 
-Watch the full walkthrough and feature explanation here:  
+### Project Screenshot
+![Project Screenshot]()
 
-https://github.com/user-attachments/assets/b2c1905e-8aea-4a03-9654-d7be157e0c45
+_Above is a screenshot of the project in action._
+
+
 
 
