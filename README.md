@@ -1,4 +1,4 @@
-# 🎯 Black and White – Career Coaching App
+# 🎯 Black and White - Skill Sphere App
 
 **Black and White** is a multi-feature, intelligent career coaching web app built using **Streamlit** and powered by **Microsoft Azure AI services**. It helps students and early professionals bridge the gap between their academic profile and real-world job market expectations. The name reflects the clarity the app aims to provide—clear guidance with no grey areas.
 
@@ -46,29 +46,10 @@
 
 ---
 
-## 🟦 How Microsoft Azure is Used
-
-- **Azure OpenAI**: Powers personalized content (career paths, mock interviews, skill builder)
-- **Azure Document Intelligence**: Parses resumes and extracts structured data
-- **Azure Maps**: Displays career POIs and job location insights
-- **Azure Machine Learning**: Suggests courses based on input keywords
-
-All credentials are managed securely using `.streamlit/secrets.toml` (excluded via `.gitignore`).
-
----
-
-## 🛡️ Secure Deployment
-
-- All API keys and secrets are stored in `secrets.toml`
-- Not pushed to GitHub to protect sensitive info
-- Streamlit reads them securely at runtime
-
----
-
 ## 🧪 Demo
 
 ### Project Screenshot
-![Project Screenshot]()
+![Project Screenshot](skill-sphere.png)
 
 _Above is a screenshot of the project in action._
 
