@@ -49,12 +49,12 @@
 ## 🧪 Demo
 
 ### ▶️ **Live App**
-👉 **Live Demo:** [Click here to run the project](https://skill-sphere.streamlit.app/)
+👉 **Live Demo:** [Click here to run the project](https://skill-sphere-he.streamlit.app/)
 
 ---
 
 ### 📸 Project Screenshot
-![Project Screenshot](skill-sphere.png)
+![Project Screenshot](skill_sphere.png)
 
 _Above is a screenshot of the project in action._
 
